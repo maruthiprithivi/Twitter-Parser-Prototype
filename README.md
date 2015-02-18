@@ -1,0 +1,9 @@
+# Twitter-Parser-Prototype
+
+A basic prototype parser wirtten in python to parse twitter data which is in csv format to tweets, rt and replies...
+
+The parser works on small heuristics set, so there are lots of room for improvemnts...
+
+Feel free to work on the codes and make changes to it...
+
+The parser was solely written to learn and test... ;)
